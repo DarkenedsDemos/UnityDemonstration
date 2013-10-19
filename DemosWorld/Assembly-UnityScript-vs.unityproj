@@ -46,6 +46,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\CameraController.js" />
      <Compile Include="Assets\Scripts\WaypointScript.js" />
+     <Compile Include="Assets\Scripts\ghostLight.js" />
      <None Include="Assets\Standard Assets\Skyboxes\_skybox info.txt" />
  <Reference Include="Assembly-UnityScript-firstpass">
  <HintPath>Library\ScriptAssemblies\Assembly-UnityScript-firstpass.dll</HintPath>
